@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://app.daily.dev/laksana_kresna"><img src="https://api.daily.dev/devcards/v2/BsIopGytbRkK9QA8UR8u9.png?type=wide&r=hbk" width="652" alt="Agung Kresna's Dev Card"/></a>
+
 <!---
 AgungKresna-dev/AgungKresna-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
